@@ -1,4 +1,4 @@
-Data requirements: 
+Data requirements:
 The data collected for each of the retailers are as follows
 
 •	Name
