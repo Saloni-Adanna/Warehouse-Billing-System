@@ -1,0 +1,24 @@
+Data requirements: 
+The data collected for each of the retailers are as follows
+
+•	Name
+•	Address
+•	Mobile number
+•	Paid amount
+
+Software Requirements: 
+It deals with the Operating system, IDE, Programming language, and Compiler that are used in this system and are mentioned as follows.
+
+Operating System: Windows or Ubuntu
+IDE: Code Blocks 
+Programming Language: C
+Compiler: GCC
+
+Functional requirements:
+The functions that are required for an efficient billing system is as follows:
+
+Calculate bill: It calculates the total price of the purchased products and displays the total amount to pay by the customer.
+Add customer: It adds the new customer by taking a name, address, mobile number, paid amount.
+Display: It displays all the due amount to be paid. 
+Search: It searches the customer whether it is available in the system or not. if not then add a new customer option is there, the facility of searching the account in two ways, either by name of the customer or by the number of the customer.
+Exit: 1. If you have nothing to do with the program, you can directly exit from the main menu.
