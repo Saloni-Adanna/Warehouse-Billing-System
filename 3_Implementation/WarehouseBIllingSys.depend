@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602088540 source:c:\tdm-gcc-32\bin\warehousebillingsys\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
