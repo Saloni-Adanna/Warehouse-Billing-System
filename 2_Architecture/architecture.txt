@@ -1,0 +1,20 @@
+Features of proposed model:
+
+1.  It can handle any number of accounts and accounts can be added to the program at any time.
+2.  The programming of simple calculations such as calculation of the due amount, balance, etc. have been embed in the code.
+3.  The Warehouse Billing System gives you the facility of searching the account in two ways, either by name of the retailer customer or by the number of a retailer.
+4.  The due amount to be paid is displayed as a negative balance.
+5.  If you have nothing to do with the program, you can direct exit from the main menu.
+
+EXISTING SYSTEM:
+
+The existing system did not have the option to track payments from the warehouse. 
+It was done manually. It was a laborious task.
+The system did not have the option to print the term reports or payment reports.
+All the accounts were maintained manually. It was a challenging task to manage the bills as the warehouse has a wide number of retailers to order the goods in a larger amount.
+
+PROPOSED SYSTEM:
+
+This warehouse billing system will help the user to add any number of accounts.
+There are different types of sections like calculation of the due amount, balance.
+This system makes billing automated, accurate, and easier. This kind of application is very essential for any organization.
