@@ -11,7 +11,7 @@ Hence, testing performs a very critical role in assurance and for ensuring the r
 TEST CASE:
 
 
-Different functions are used for performing different billing operations in the       warehouse billing system such as:
+Different functions are used for performing different billing operations in the warehouse billing system such as:
 •	void input()
 •	void writefile()
 •	void search()
