@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: Windows 10 Home Single Language 64-bit
 
     steps:
     - uses: actions/checkout@v2
