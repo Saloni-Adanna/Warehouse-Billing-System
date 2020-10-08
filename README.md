@@ -1,2 +1,3 @@
 # stepin104979-MiniProject_C
 Warehouse Billing System
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/715808d0495246559d4eea96856239ad)](https://www.codacy.com/gh/Saloni-Adanna/stepin104979-MiniProject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Saloni-Adanna/stepin104979-MiniProject_C&amp;utm_campaign=Badge_Grade)
